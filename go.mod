@@ -9,7 +9,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/swag v1.8.12
-	github.com/xue-ding-e/gin v0.0.0-20241225112848-e2cb55c71dbe
+	github.com/xue-ding-e/gin v0.0.1
 	golang.org/x/net v0.27.0
 )
 
