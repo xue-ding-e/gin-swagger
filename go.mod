@@ -1,4 +1,4 @@
-module github.com/swaggo/gin-swagger
+module github.com/xue-ding-e/gin-swagger
 
 go 1.21.0
 
