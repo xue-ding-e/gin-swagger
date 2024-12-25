@@ -1,7 +1,7 @@
 package v2
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/xue-ding-e/gin"
 )
 
 // @title Swagger Example API

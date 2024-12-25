@@ -1,7 +1,7 @@
 package v1
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/xue-ding-e/gin"
 )
 
 type Book struct {
@@ -11,7 +11,6 @@ type Book struct {
 	Year   *uint16 `json:"year"`
 }
 
-//
 // @Summary Get a list of books in the the store
 // @Description get string by ID
 // @Accept  json

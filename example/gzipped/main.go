@@ -2,9 +2,9 @@ package main
 
 import (
 	"github.com/gin-contrib/gzip"
-	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
 	"github.com/swaggo/gin-swagger"
+	"github.com/xue-ding-e/gin"
 
 	_ "github.com/swaggo/gin-swagger/example/basic/docs"
 )

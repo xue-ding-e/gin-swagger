@@ -99,7 +99,7 @@ import (
 package main
 
 import (
-   "github.com/gin-gonic/gin"
+   "github.com/xue-ding-e/gin"
    docs "github.com/go-project-name/docs"
    swaggerfiles "github.com/swaggo/files"
    ginSwagger "github.com/swaggo/gin-swagger"
